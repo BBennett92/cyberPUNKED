@@ -41,8 +41,6 @@ ENJOY!
 ⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠛⠛⠲⠒⠒⠂⠉⠀⠀⠀⠉⠻⢿⣿⣷⣕⢼⣿⢠⣶⣾⣷⣮⣻⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣷⣄⡸⠿⠿⢟⣵⠏⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠿⠿⠿⠿⠛⠁⠀⠀⠀⠀⠀⠀
-
-
 *FUTURE FEATURES TO INCLUDE:
 
 -Port scans on online IPs found, print what ports are open and what services run on said ports, if any-
